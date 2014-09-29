@@ -1,0 +1,629 @@
+0,D404.Mbane-Sier
+1,P603.Tiare-Sintiou Wanar
+2,Unknown.Diwane-Ndindi
+3,D208.Diokadiou-Sindian
+4,N3.Rhombole-Ndangalma
+5,Unknown.Badi-Oubadji
+6,D500.Diam Diam-Kountouata
+7,D507.Sainsoutou-Missira
+8,Unknown.Gonkol Kodioli Safalbe-Revane
+9,D302.Keur Momar Sarr-Niomé
+10,Unknown.Darou Ndiaye-jct_N3
+11,Unknown.Guent Paté-Paffa
+12,P308.Dek Do-jct_D300
+13,D502.Dinndedie-Boké
+14,N2.Haere Lao-Golere
+15,P602.jct_R61-Diohine
+16,D705.Fissel-Tiadiaye
+17,D101.Malika-Rufisque
+18,D509.Ndédou-Kedougou
+19,R31.Louga-Ouarak
+20,N2.Thille-Boubacar-Guede
+21,Unknown.Mouye-Dahra
+22,Unknown.jct_R60-Kael
+23,P307.Negue-Mbeulekhé
+24,N7.Dialakoto-Niokolo Koba
+25,D705.jct_D705-Ngueniene
+26,Unknown.Tiel-Gassane
+27,N7.Namari-Fété Bowé
+28,Unknown.Sam-Sam-Medina Yelour
+29,Unknown.Ouro Séno-Belkagne
+30,D512.Goumbeyel-jct_D504
+31,R60.Boulel-Kaffrine
+32,Unknown.Darou-Mousty-Diwane
+33,Unknown.Wak-Ngouna-Koutango
+34,P602.jct_D610 B-Kaolack
+35,D504.Goudiry-Koudi
+36,Unknown.jct_D207-jct_P210
+37,Unknown.Séssème-Ngueniene
+38,Unknown.jct_N3-jct_P408
+39,R21.Ndiébal-Marssassoum
+40,D305.Ndindi-Diourbel
+41,R40.jct_R40-Bogué
+42,Unknown.Mlomp-jct_D213
+43,P403B.Gaya-jct_N2
+44,N5.Tabakouta-Diélmo
+45,N2.Sarré-Kidira
+46,N7.Fété Bowé-Mboune
+47,D206.Kagnarou-Bignona
+48,D512.Tambacounda-Goumbeyel
+49,Unknown.Diakène-jct_R20
+50,Unknown.jct_P306-Yonofere
+51,D711.Diaganiao-Fissel
+52,Unknown.Diagle-Medina Yelour
+53,D223.Médina Gounas-bnd_Guinée
+54,D510.Missira Dantilia-jct_D510
+55,Unknown.jct_Gonkol-Revane-Guirvas
+56,Unknown.Kossanto-Sanbarabougou
+57,Unknown.bnd_Gambia-jct_P208
+58,R20.Dimbéreng-jct_R20 B
+59,D513.Kotiari Naoude-Goumbeyel
+60,P702.Tivaouane-Touba Toul
+61,R30.Tiougoune-Kebemer
+62,R30.Kebemer-Sagata
+63,Unknown.Velingara-Tiel
+64,D603.Ndiédieng-K. Madiabel
+65,P606B.Prokhane-jct_D601
+66,N5.Tendièmer-Bignona
+67,D504.Medina Sambo Gouro-Ndia
+68,N2.Diamounguel-Bokeladji
+69,D309.Boulel-Dahra
+70,Unknown.Gad-Ndindi
+71,Unknown.Pantiagnédié-Dinndedie
+72,D515.Kagnoubé-Banfoulou
+73,P509.Touba-Koulia Ba
+74,Unknown.jct_D504-Dianké Makam
+75,N2.Dagna-Richard-Toll
+76,Unknown.jct_N5-Ngayèn Tiebo
+77,P308.Lagbar-Dek Do
+78,D522.Koussanar-jct_D500
+79,P503.Goumbeyel-jct_P504
+80,D510.Nafadji-Missira Dantilia
+81,D706.Thies-Tasset
+82,N6.Ziguinchor-Adeane
+83,N1.Goudiry-Bala
+84,N3.Matam-Ourossogui
+85,D608.Delbi-Maleme-Hodar
+86,D216.Brin -Séléky
+87,Unknown.Kolobane-Kelkome
+88,Unknown.jct_D200-Tobor
+89,D222.Medina Yoro-Foula-Fafa Kourou
+90,N2.Ourossogui-Ogo
+91,N4.Silinkine-Bignona
+92,Unknown.jct_D610-Nguélou
+93,P601.Joal-Ndangane
+94,D606.Gassane-Kelkome
+95,D605.Passi Ngayène-Médina-Sabakh
+96,Unknown.jct_D608-Nganda
+97,N1.Kaolack-Birkelane
+98,Unknown.jct_R31-Yapal
+99,N7.Sinthiou Bokar Ali-Maeli Dibi
+100,D505.jct_N1-Koussane
+101,D221.Ouassadou-Paroumbo Mande
+102,D518.Lofé-Koutia Gaidi
+103,Unknown.jct_P404-Gonkol Kodioli Safalbe
+104,P311.Dahra-Tiel
+105,D501.Diamantan-Dalaba
+106,D508.Saraya-bnd_Mali
+107,D712.jct_D703-Mekhe-jct_N2
+108,Unknown.Mlomp-Oussouye
+109,D502.Boké-Bala
+110,D601.Prokhane-Saboya
+111,D300.Yang Yang-jct_N3
+112,N2.Thieogni-Ourossogui
+113,D515.Neteboulou-Niaoulé
+114,D502.Toubéré Bafal-Dinndedie
+115,P410.Diamounguel-Ndiot
+116,Unknown.jct_D703-Mekhe
+117,Unknown.Kael-Ndioumane
+118,P405.Ngoui-Guirvas
+119,Unknown.Ngoki-Tiarape
+120,P205.Sindian-Silinkine
+121,Unknown.Revane-Linguere
+122,Unknown.jct_R31-Sagata
+123,R21.jct_N4-Ndiébal
+124,P604.Mbos-Diaké
+125,P402.Ndiobene-Mpal
+126,D605.jct_D601-Nganda
+127,N7.Ogo-Gouré
+128,Unknown.Darou Ndiaye-Touba
+129,N2.Louga-Kebemer
+130,D509.Binbou-Kedougou
+131,Unknown.Mal-Bowde Doudal
+132,R22.Kandiadiou-Diendé
+133,P500.Mako-Binbou
+134,D310.Ndoulo-jct_N3
+135,N7.Vélingara-Missira
+136,D607.jct_P303-Touba
+137,Unknown.Dinndedie-jct_N1
+138,D303.Mbédiène-Sagata
+139,D701.Sindia-Poponguine
+140,Unknown.bnd_Gambia-Pata
+141,N7.Mako-Kedougou
+142,D601.Tabakouta-Ngayèn Tiebo
+143,P400.Sam-Sam-Diagle
+144,P306.Velingara-jct_D518
+145,R42.Silla-Matam
+146,D514.Missira-Niaoulé
+147,P206.Nyikine-Diembéreng
+148,N5.Sokone-Tabakouta
+149,P506.Yaféra-Sarré
+150,P606.Sokone-Ndramé Escale
+151,Unknown.Barkedji-jct_P310
+152,D302.Yamané-Keur Momar Sarr
+153,D603.Passi-Ndiédieng
+154,Unknown.jct_P219-Linkering
+155,Unknown.jct_N1-Séssème
+156,R61.Niakhar-Fatick
+157,R20.jct_R20-Essaout
+158,N6.Velingara-Kounkane
+159,Unknown.bnd_Gambia-Velingara
+160,N4.Kawil-Ndofane
+161,D704.Touba Toul-Rhombole
+162,R61.Fatick-Foundiougne
+163,P306.Barkedji-Velingara
+164,P303.Darou-Mousty-Touba
+165,D302.jct_N2-Yamané
+166,N5.Séléty-Diouloulou
+167,D203.jct_D200-Thionck Essyl
+168,D208.Sindian-Kagnarou
+169,R42.Matam-jct_N2
+170,D200.Tiobon-Tendième
+171,Unknown.jct_N6-bnd_Guiné Bisau
+172,Unknown.jct_R40-jct_N2
+173,P102.Niaga-jct_R70
+174,D601.Koutango-Saboya
+175,D504.Koudi-jct_D502
+176,Unknown.jct_N6-Médina Gounas
+177,N2.Richard-Toll-Saint-Louis
+178,R21.Diendé-Kolda
+179,N7.Missira-Wassadougou
+180,D515.Niaoulé-Koular
+181,D518.jct_D518-Loumbi
+182,Unknown.Médina Gounas-Médina Pakane
+183,D217.Boutoupa-Goudomp
+184,D609.Dioun Guennt-Delbi
+185,Unknown.Djilor-Sokone
+186,Unknown.bnd_Gambia-Mampatim Maounde
+187,D611.Guinguineo-jct_N1
+188,P203.Nifourang-jct_D205
+189,P302C.Tiobé-Ndioumane
+190,D504.Diana-Gamon
+191,Unknown.Taif-Mbacke
+192,Unknown.bnd_Gambia-Tankon
+193,Unknown.Lagbar-Mbeulekhé
+194,Unknown.jct_D505-Bokolako
+195,P220.Paroumbo Mande-bnd_Guiné Bisau
+196,N2B.Rosso-jct_N2
+197,P216.Pata-Medina Yoro-Foula
+198,D606.Kelkome-jct_R60
+199,N3.Mbacke-Diourbel
+200,N1.Tiadiye-Fatick
+201,D309.Ouarak-Coki
+202,Unknown.Medina Yelour-Niassante
+203,D200.Thionck Essyl-Tendouk
+204,D500.Silamé-Maka
+205,D607.Touba-Koungheul
+206,N7.Niokolo Koba-Mako
+207,Unknown.jct_D601-Ndiao
+208,R40.Bogué-Cascas
+209,D704.Tchilmakha-Baba-Garage
+210,N5.bnd_Gambia-Séléty
+211,D610B.Gossas-jct_D602
+212,N5.Passi-Sokone
+213,N5.Diélmo-Karang
+214,N1.Nayé-Sithiou Fissa
+215,Unknown.Dankh-Diourbel
+216,N2.Guede-Ndioum
+217,N6.Kolda-Mampatim Maounde
+218,R60.Mbar-Boulel
+219,D704.Rhombole-Diaganiao
+220,P605.K. Madiabel-Ndramé Escale
+221,D701.Thies-Sindia
+222,D602.Diourbel-Diakhao Somb
+223,P601C.Séssème-Faoye
+224,Unknown.Garé Oura-jct_D223
+225,D304.jct_N3-Barkedji
+226,N1.Fatick-Kaolack
+227,Unknown.Niassante-Sare Lamou
+228,R31.Ouarak-jct_R30
+229,N2.Mekhe-Tivaouane
+230,D200.Bagaya-Afiniam
+231,D501.Dalaba-bnd_Guinée
+232,N1.Birkelane-Kaffrine
+233,D404.Sier-Ganket
+234,Unknown.Ndindi-Dankh
+235,Unknown.Taiba Moutoufa-Bambey
+236,Unknown.Velingara-Patakour
+237,D510.jct_D509-bnd_Guinée
+238,D702.Mboro Ndeundekat-Mboro
+239,Unknown.jct_P603-Médina-Sabakh
+240,Unknown.jct_N7-Badi
+241,Unknown.Guent Paté-Mbaye Mbaye
+242,R70.Mboro-Rufisque
+243,D603.Djilor-Passi
+244,D711.jct_D706-Diaganiao
+245,D302.Gnit-Yamané
+246,N2C.Moudéri-Bakel
+247,N2.Saint-Louis-Mpal
+248,Unknown.jct_N4-Ndiédieng
+249,Unknown.Tiara-Lountchi
+250,Unknown.Tankon-Saré Baradji
+251,D222.Fafa Kourou-Kolda
+252,D517.Koutia Gaidi-Koussanar
+253,D211.Ndiébal-Koubanao
+254,P218.jct_N6-Tiarape
+255,P208.Kandiadiou-Baghagha
+256,N1.Mbour-Tiadiye
+257,D503.Nayé-Doundé
+258,Unknown.Bala-Tiara
+259,Unknown.bnd_Gambia-Medina Yoro-Foula
+260,P402.Keur Momar Sarr-Ndiobene
+261,N6.Adeane-Goudomp
+262,P212.Sedhiou-Sandinièr
+263,P606.Ndramé Escale-Wak-Ngouma
+264,N6.Kolda-Bantankountouyél
+265,D518.Koutia Gaidi-Malem-Niani
+266,N2.Ndande-Mekhe
+267,P508.Koumpenntoum-Maka
+268,P302.Kael-Touba Boule
+269,R40.Salde-Ngoui
+270,Unknown.Ouassadou-Guiné Bisau
+271,D506.jct_N2-Yaféra
+272,D703.Tialé-jct_D702
+273,D605.Gassane-Kelkome
+274,P219.jct_N6-jct_N6
+275,D506.Yaféra-bnd_Mali
+276,D609.Delbi-Ndodj
+277,D300.Mbeulekhé-Yang Yang
+278,N4.Ndiba Ndiayène-bnd_Gambia
+279,D404.Ndombo-Ndiago
+280,Unknown.Tankon-jct_P208
+281,D200.jct_N5-Bagaya
+282,D518.Loumbi-Lofé
+283,R42.Kaédi-Silla
+284,D701.Thies-Mont Rolland
+285,D207.Diokadiou-Silinkine
+286,D607.Koungheul-Sali
+287,Unknown.Taiba Moutoufa-Diourbel
+288,P509.jct_D517-Malem-Niani
+289,R61.Bambey-Niakhar
+290,D518.jct_P306-Koulia Ba
+291,P208.Boussimbala-Kolda
+292,D306.Gad-Bambey
+293,D514.Kagnoubé-Missira
+294,P403.Keur Mor Ibra-Tatki
+295,D404.Richard-Toll-Ndombo
+296,Unknown.Dougué-Talibadji
+297,N1.Mbaye Mbaye-Koungheul
+298,P303.Patakour-jct_D607
+299,P201.jct_D206-Dar Salam
+300,N6.Goudomp-Tanaff
+301,Unknown.Paffa-Maka Yop
+302,N7.Toubéré Bafal-Sinthiou Bokar Ali
+303,D304.Linguere-Barkedji
+304,N1.Sithiou Fissa-Goudiry
+305,N3.Dahra-Sagata
+306,Unknown.Souaki-jct_R22
+307,Unknown.jct_D512-Missira
+308,D516.jct_N1-jct_D500
+309,D307.jct_D704-Lambaye
+310,Unknown.jct_P604-Kaffrine
+311,Unknown.jct_N1-jct_D601
+312,D501.Tabadian-Diamantan
+313,D301.Leona-Louga
+314,Unknown.Sadio-Kolobane
+315,D504.Gamon-jct_N7
+316,P310.Linguere-Tiel
+317,P603.Ndiao-Ndiba Ndiayène
+318,P410.Ndiot-Ouro Amat
+319,Unknown.Touba Fal-Dankh
+320,D500.Kountouata-Silamé
+321,P210.Djamakouta-Bounkiling
+322,Unknown.Bowde Doudal-Negue
+323,Unknown.Bransan-Kossanto
+324,Unknown.Tiel-Patakour
+325,D515.Banfoulou-Koular
+326,Unknown.Ngayèn Tiebo-Karang
+327,P409.Fété Bowé-Ouro Amat
+328,D504.Bakel-Medina Sambo Gouro
+329,D518.Malem-Niani-Maka
+330,D205.Diouloulou-Kafountine
+331,Unknown.Guinguineo-jct_N1
+332,D503.Goudiry-Koussane
+333,P217.Kandiator-jct_N6
+334,N2.Dagana-Thille-Boubacar
+335,D519.jct_D500-Manigui
+336,P218.Tiarape-jct_D221
+337,P504.Ndédou-bnd_Guinée
+338,Unknown.Nafadji-Guémédji
+339,N3.Linguere-Ranerou
+340,D611.Babane Oualof-Mbos
+341,Unknown.Bobinnguel-Pantiagnédié
+342,N6.Mampatim Maounde-Kounkane
+343,D523.jct_D509-bnd_Guinée
+344,Unknown.Medina Yelour-Sare Lamou
+345,N2.Galoya-Orefonde
+346,N2.Kanel-Sinthiou Bamambe
+347,Unknown.Ndiao-Nganda
+348,N3.Ndangalma-Bambey
+349,P406.Guirvas-Liou
+350,N7.Mboune-Toubéré Bafal
+351,N6.Bantankountouyél-Tanaff
+352,P204.Balandine-jct_D200
+353,Unknown.Linkering-jct_D223
+354,D705.Tiadiaye-Ngueniene
+355,Unknown.jct_Revane-Linguere-Dioumanan
+356,P401.jct_D302-Gnit
+357,D610.Mbar-Gossas
+358,P604.Diaké-Birkelane
+359,N2.Golere-Mbouba
+360,D221.Salikénié-Ouassadou
+361,Unknown.Oussouye-Diakène
+362,D204.Bagaya-jct_D200
+363,P404.Haere Lao-Lagbar
+364,N2.Mbouba-Ngoui
+365,N3.Bambey-Diourbel
+366,Unknown.jct_N3-Velingara
+367,D710.Touba Toul-Thies
+368,Unknown.Mbaye Mbaye-Pate Tiangaye
+369,D206.Djibidione-Kagnarou
+370,Unknown.jct_N6-Salikénié
+371,N2.Ndioum-Haere Lao
+372,Unknown.jct_D504-Dianké Makam-Demba Koli
+373,Unknown.Koungheul-Diam Diam
+374,P302.Touba Boule-Gossas
+375,Unknown.Thieogni-Liou
+376,D509.Dar Salam-Ndédou
+377,R21.Diendé-Sedhiou
+378,D309.Coki-Boulel
+379,N2.Thies-jct_N1
+380,P208.Baghagha-Boussimbala
+381,D605.Nganda-Passi Ngayène
+382,D519.Sao-Manigui
+383,N2.Ngoui-Galoya
+384,Unknown.Ouro Séano-jct_N7
+385,Unknown.jct_N4-Kandiadiou
+386,Unknown.Deali-Taif
+387,R20.Brin-Oussouye
+388,P215.Dialaba Diéri-Soulabali
+389,N4.Bignona-Tobor
+390,D518.jct_P306-Darou Salam
+391,D603.Foundiougne-Djilor
+392,D219.Soulabali-Kolda
+393,D213.Elinkine-Oussouye
+394,D502.Bala-Demba Koli
+395,P302C.jct_N3-Tiobé
+396,D704.Baba-Garage-Touba Toul
+397,D220.Bantankountouyél-Saré Ndiaye
+398,D505.Koussane-Soreto Saboussire
+399,R60.Mbacke-Kolobane
+400,P208.Inor-Bona
+401,N2.Ogo-Kanel
+402,N4.Diourbel-Gossas
+403,D609B.jct_D609 B-jct_D609
+404,R40.Podor-Guede
+405,D302.Niomé-Louga
+406,Unknown.jct_P404-jct_P405
+407,D705.Mbour-Joal
+408,D608.Maleme-Hodar-Pate Tiangaye
+409,P400.Ndombo-Sam-Sam
+410,R20B.jct_R20-Kabrousse
+411,N7.Maeli Dibi-Tambacounda
+412,Unknown.Sonkounkou-Kossanto
+413,R22.Kandiadiou-jct_R21
+414,Unknown.Belkagne-jct_N3
+415,D519.Silamé-Sao
+416,P502.Timbifara-Boutougou Fara
+417,P502.jct_D504-Timbifara
+418,P205.Balandine-Sindian
+419,Unknown.Sansandé-Bankouba
+420,N3.Deali-Touba
+421,N4.Ndofane-Nioro du Rip
+422,D206.Séléty-Djibidione
+423,D207.jct_D206-Diokadiou
+424,Unknown.Yapal-Darou Ndiaye
+425,D607.Sali-Maka-Gouye
+426,D504.Demba Koli-Diana
+427,Unknown.Mampatim Maounde-Ngoki
+428,N2.Mpal-Nguene Sar
+429,D507.Missira-Saraya
+430,D211.Koubanao-Tobor
+431,D521.Koumpenntoum-Diam Diam
+432,R20B.Oussouye-Kabrousse
+433,P700.Tasset-Diaganiao
+434,N5.Diouloulou-Baila
+435,D219.Pata-Soulabali
+436,D216.Séléky-Kamobeul
+437,D601.Ngayèn Tiebo-Koular
+438,D705.Ndangalma-Fissel
+439,D702.Mboro-Tivaouane
+440,D223.jct_N6-Médina Gounas
+441,D604.Tiare-jct_N4
+442,Unknown.Sare Bodia-jct_D222
+443,N5.Passi-jct_N4
+444,D214.Mlomp-Djiromait
+445,N2.Tivaouane-Thies
+446,D517.Koulia Ba-Koumpenntoum
+447,N1.Koumpenntoum-Malem-Niani
+448,D220.Saré Ndiaye-bnd_Guiné Bisau
+449,N4.Ziguinchor-bnd_Guiné Bisau
+450,Unknown.Sivi Abé-Mboune
+451,Unknown.Dankh-Ndoulo
+452,D509.Saraya-Nafadji
+453,Unknown.Bokolako-Boutougou Fara
+454,P602.Niakhar-Diakhao Somb
+455,Unknown.Mouye-Boulel
+456,D218.Marssassoum-Yassine Mandina
+457,Unknown.jct_N6-Guiro Yoro
+458,N2.Bokeladji-jct_D504
+459,Unknown.jct_P216-jct_D222
+460,P602.Diohine-Fatick
+461,N3.Dahra-Linguere
+462,P603.Ndofane-Tiare
+463,N7.jct_R42-Ogo
+464,P202.Dombondir-Diouloulou
+465,N1.Tiaroye-Rufisque
+466,P506.Sarré-jct_N1
+467,D400.jct_N2-Ndiébène Gandiol
+468,D704.Diaganiao-jct_N1
+469,D301.Ndiébène Gandiol-Leona
+470,D303.Louga-Mbédiène
+471,D514.Goumbeyel-Kagnoubé
+472,N7.Wassadougou-Dialakoto
+473,N2.Nguene Sar-Louga
+474,Unknown.jct_D503-Talibadji
+475,Unknown.Gamon-Niokolo Koba
+476,N7.jct_N6-Vélingara
+477,Unknown.Touba Fal-Mbacke
+478,D509.Binbou-Saraya
+479,P600.Nguélou-Guinguineo
+480,N2.Sinthiou Bamambe-Diamounguel
+481,Unknown.Thille-Boubacar-Ndioum
+482,P403.Dagana-Keur Mor Ibra
+483,D517.Koulia Ba-Koutia Gaidi
+484,D518.Darou Salam-jct_P509
+485,Unknown.Sagata-Pekess
+486,Unknown.Coki-Touba Ménna
+487,Unknown.Boutougou Fara-Bransan
+488,R60.Kolobane-Mbar
+489,Unknown.bnd_Gambia-jct_P216
+490,Unknown.Kounkane-jct_D221
+491,D604.Birkelane-Tiare
+492,Unknown.jct_Gad-Ndindi-Taiba Moutoufa
+493,Unknown.Gassane-Sadio
+494,Unknown.jct_N3-Touba
+495,D509.Satadougou-Nafadji
+496,D517.Koussanar-Maka
+497,Unknown.Dianké Makam-Bokolako
+498,Unknown.Yonofere-jct_N3
+499,Unknown.Sedhiou-Djirédji
+500,P402.jct_D302-jct_P402
+501,P603.Sintiou Wanar-Ndiao
+502,D600.Kawil-K. Madiabel
+503,P408.Ranerou-Namari
+504,N5.Baila-Tendième
+505,Unknown.jct_P303-Guent Paté
+506,D609B.Dioun Guennt-Paffa
+507,Unknown.Sagata-Hafe
+508,P505.Dar Salam-Outioumbel
+509,Unknown.Linkering-Paroumbo Mande
+510,N2.Kebemer-Ndande
+511,Unknown.Bobinnguel-jct_P410
+512,P405.Guirvas-Revane
+513,D501.Wassadougou-Tabadian
+514,D705.Ngueniene-jct_D705
+515,N4.bnd_Gambia-Bounkiling
+516,Unknown.Belkagne-jct_Dioumanan-jct_Revane-Linguere
+517,N1.Bala-Kotiari Naoude
+518,P217.Velingara-Fafa Kourou
+519,D520.Sali-Kountouata
+520,Unknown.Demba Koli -Dianké Makam
+521,Unknown.Ndofane-K. Madiabel
+522,D706.Tasset-Mbour
+523,P304.Sagata-jct_D311
+524,Unknown.Yang Yang-Dahra
+525,D212.jct_R20-Youtou
+526,D503.Doundé-Koussane
+527,D500.Maka-Neteboulou
+528,R32.Mekhe-Baba-Garage
+529,Unknown.jct_P310-Hate
+530,D200.Tendouk-Afiniam
+531,D602.Diakhao Somb-Fatick
+532,Unknown.Diwane-Touba Fal
+533,Unknown.jct_N2-Sakal
+534,D601.Nioro du Rip-Prokhane
+535,Unknown.jct_D504-jct_D502
+536,P606.Wak-Ngouna-Nioro du Rip
+537,D601.Kaffrine-Sintiou Wanar
+538,D703.Pekess-Tchilmakha
+539,Unknown.Yang Yang-Mouye
+540,Unknown.Silla-Thieogni
+541,N4.Tobor-Ziguinchor
+542,P604.jct_R60-Mbos
+543,Unknown.Revane-Yonofere
+544,N2.Bakel-Sarré
+545,N3.Sagata-Deali
+546,D703.Mekhe-Pekess
+547,D511.Koussane-Sansandé
+548,P600.Gossas-Nguélou
+549,P210.bnd_Gambia-Djamakouta
+550,P212.Sandinièr-Tanaff
+551,R20.Essaout-jct_R20 B
+552,Unknown.Loumbol-Dioun Guennt
+553,P704.Fissel-Diohine
+554,N4.Nioro du Rip-Ndiba Ndiayène
+555,Unknown.Pate Tiangaye-Nganda
+556,N4.Kaolack-Kawil
+557,N1.Rufisque-Sindia
+558,Unknown.Dalaba-Dar Salam
+559,Unknown.Tivaouane-Mont Rolland
+560,D601.Tabakouta-Missirah
+561,N2.Kidira-Nayé
+562,D404.Ndiago-Mbane
+563,Unknown.Séssème-Ndangane
+564,P410.Ouro Amat-Ndia
+565,R32.Baba-Garage-Bambey
+566,N1.Nguekikh-Mbour
+567,D200.Tiobon-Thionck Essyl
+568,N3.Thies-Rhombole
+569,N1.Malem-Niani-Koussanar
+570,P200.Dar Salam-bnd_N5
+571,Unknown.jct_R22-jct_D218
+572,D500.jct_N6-Neteboulou
+573,Unknown.jct_P208-jct_R21
+574,R30.Sagata-Darou-Mousty
+575,P213.Boussimbala-jct_R21
+576,N4.Bounkiling-Silinkine
+577,R30.Darou-Mousty-Touba
+578,N7.Gouré-Namari
+579,P210.Bounkiling-jct_P208
+580,R40.Cascas-Salde
+581,N1.Koussanar-Tambacounda
+582,Unknown.Sinthiou Bokar Ali-Kotiari Naoude
+583,P500.Kossanto-Binbou
+584,R41.Kaédi-Orefonde
+585,Unknown.Ngouye Diéri-Touba
+586,D504.Ndia-jct_N1
+587,P208.Bona-jct_N4
+588,Unknown.Moudéri-jct_N2
+589,D611.Mbos-Guinguineo
+590,D307.Lambaye-Bambey
+591,Unknown.Babane Oualof-Dioun Guennt
+592,P307.Negue-Coki
+593,N1.Kaffrine-Mbaye Mbaye
+594,P208.Tobor-Inor
+595,Unknown.jct_N2-Pekess
+596,P216.bnd_Gambia-Pata
+597,Unknown.Hafe-Sadio
+598,N4.Gossas-Kaolack
+599,Unknown.Guidakahr-Niassante
+600,N6.Tambacounda-Velingara
+601,Unknown.Fas Boye-jct_D703
+602,R21.Yassine Mandina-Sedhiou
+603,P204.Djibidione-Balandine
+604,R20.Ziguinchor-Brin
+605,D700.Kayar-jct_N2
+606,N3.Denndoudi-Ranerou
+607,N1.Kotiari Naoude-Tambacounda
+608,P217.Fafa Kourou-Kandiator
+609,D601.Koular-Koutango
+610,N2.Orefonde-Thieogni
+611,Unknown.K. Madiabel-Wak-Ngouna
+612,Unknown.jct_N4-jct_D604
+613,D601.Sintiou Wanar-Nioro du Rip
+614,N3.Ourossogui-Denndoudi
+615,Unknown.jct_R30-jct_P304
+616,D609.Ndodj-Kaffrine
+617,N1.Sindia-Nguekikh
+618,Unknown.Tanaff-Guiné Bisau
+619,P410.Doundé Bagué-jct_D502
+620,Unknown.Sanbarabougou-Missira
+621,P406.Liou-jct_N2
+622,N1.Koungheul-Koumpenntoum
+623,Unknown.Kolomba-Ouok-Ouok
+624,D311.Tchilmakha-Darou-Mousty
+625,P400.Diagle-Mal
+626,Unknown.Dar Salam-bnd_Guinée
+627,Unknown.Sadio-Taif
+628,D217.Boutoute-Boutoupa
