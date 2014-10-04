@@ -1,0 +1,43 @@
+function flow
+
+
+%Init
+clc;
+nNodes = 10;
+
+
+
+%Create nodes
+x = sin(linspace(0,2*pi,nNodes+1));
+y = cos(linspace(0,2*pi,nNodes+1));
+V = [x; y];
+V = V(1:end-1,:);
+
+
+
+%Create flow
+Tin = 0.5 + rand(nNodes,nNodes)*0.1;
+Tin
+for i=1:nNodes
+  Tin(i,i) = 0;
+end
+
+
+%Normalize
+for i=1:nNodes
+  val = Tin(:,i);
+  val = val ./ sum(val);
+  Tin(:,i) = val;
+end
+
+
+%Random Walk
+S = ones(nNodes,1);
+Stot = S;
+for i=1:10
+  S = Tin*S;
+  Stot = [Stot S];
+end
+Stot
+imagesc(Stot);
+sum(Stot)
